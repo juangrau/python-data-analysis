@@ -4,7 +4,7 @@ import sys
 
 
 #MODO DE USO
-#./analyzer.py <pattern file name> <data file name>
+#./filterpatterns.py <pattern file name>
 
 # first, we open the file with the text patterns and append them into a List
 patterns = []
